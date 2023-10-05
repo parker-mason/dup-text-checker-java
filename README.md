@@ -1,1 +1,1 @@
-# dupl-text-checker-java 
+# dup-text-checker-java 
